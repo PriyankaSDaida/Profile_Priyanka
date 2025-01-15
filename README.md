@@ -20,19 +20,6 @@
 
 ---
 
-# Sections :bookmark:
-
-- HERO SECTION
-- ABOUT ME
-- EXPERIENCE
-- SKILLS
-- PROJECTS
-- EDUCATION
-- BLOG
-- CONTACTS
-
----
-
 # Installation :arrow_down:
 
 ### You will need to download Git and Node to run this project
