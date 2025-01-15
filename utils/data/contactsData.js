@@ -1,7 +1,6 @@
 export const contactsData = {
     email: 'priyankasudhakarreddy@gmail.com',
     phone: '++1(510)-556-7849',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
     github: 'https://github.com/said7388',
     facebook: 'https://www.facebook.com/abusaid.riyaz/',
     linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
